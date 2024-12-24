@@ -3,7 +3,7 @@ Average modpack for all people to feel what it is like to be in the worst city i
 A modpack for all sort of people
 
 Versions:
-1.0.0 - testing alpha version
+1.0.0 - testing alpha version / 
 1.5.0 - added ChomutovCzechShining 
 (includes these mods: 
 "Toybox-LittleCompany-1.3.16",
