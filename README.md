@@ -24,4 +24,9 @@ Versions:
 "Piggy-Piggys_Variety_Mod-1.3.17",
 "TimMods-CzechCompany-0.1.2",
 "Magic_Wesley-WesleysInteriors-1.6.2"
+) /
+version 1.5.5
+(removed 
+"RickArg-Helmet_Cameras-2.1.5",
+"SquidyBallinxGaming-ShipTurrets-1.0.6"
 )
