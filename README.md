@@ -29,4 +29,6 @@ version 1.5.5
 (removed 
 "RickArg-Helmet_Cameras-2.1.5",
 "SquidyBallinxGaming-ShipTurrets-1.0.6"
-)
+) /
+1.6.2 - (removed "ohotdog-LootableMusicTapes-1.0.1","Renegades-WalkieUse-1.5.0","Steven-Custom_Boombox_Music-1.4.0", added "Backrooms-Backrooms-0.1.3","Evaisa-LethalThings-0.10.6","Archie-YoutubeBoomBox-1.0.6","5Bit-VoiceHUD-1.0.4")
+
